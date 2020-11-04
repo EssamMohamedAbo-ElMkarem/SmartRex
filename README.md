@@ -4,7 +4,7 @@ An interactive smart assistant built in Python and it contains the following fea
 2- Voice recognition and response system
 3- Simultaneous execution of all of its functionalities using multi-threading
 
-##Note
+## Note
 In order to make python scripts work properly you need some pre-installed external modules:
 - wolfram-alpha  https://pypi.org/project/wolframalpha/
 - wikipedia  https://pypi.org/project/wikipedia/
